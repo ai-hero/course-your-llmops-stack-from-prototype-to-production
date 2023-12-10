@@ -20,9 +20,13 @@ Create a `.env` file in this repo. Add yur keys and secrets to download your dat
 OPENAI_API_KEY=
 ```
 
-# BLOG PoC
+# Prototypes
+## BLOG PoC
 ```sh
 python rag_blog/download_blogs.py
 python rag_blog/build_index.py
 streamlit run rag_blog/blog_milo.py
 ```
+
+## Fine-tuning Chat LLM with QLoRA
+[Notebook by @maximelabonne](https://colab.research.google.com/drive/1PEQyJO1-f6j0S_XJ8DV50NkpzasXkrzd).
