@@ -29,4 +29,5 @@ streamlit run rag_blog/blog_milo.py
 ```
 
 ## Fine-tuning Chat LLM with QLoRA
+[Tutorial by @maximelabonne](https://towardsdatascience.com/fine-tune-your-own-llama-2-model-in-a-colab-notebook-df9823a04a32).
 [Notebook by @maximelabonne](https://colab.research.google.com/drive/1PEQyJO1-f6j0S_XJ8DV50NkpzasXkrzd).
